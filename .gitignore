@@ -3,6 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
 [Pp]ackages/
 Assets/AssetStoreTools*
 
@@ -35,6 +36,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
 # General
 .DS_Store
 .AppleDouble
