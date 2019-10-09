@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
@@ -8,11 +6,5 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         Debug.Log("HelloWorld");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
